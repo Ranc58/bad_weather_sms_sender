@@ -1,5 +1,5 @@
 # Bad weather sms sender
-Service for sending SMSes.\
+Service for sending SMS.\
 Project based on [Quart](https://gitlab.com/pgjones/quart) and uses [Trio](https://github.com/python-trio/trio) async implementation.\
 For sending messages uses [SMSc](http://smsc.ru).
 # How to install
